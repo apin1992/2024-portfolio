@@ -1,3 +1,5 @@
+// javascript
+
 function toggleMenu() {
   const menu = document.querySelector('.menu-links');
   const icon = document.querySelector('.hamburger-icon');
@@ -10,7 +12,6 @@ function gitHubOnClick() {
 function linkedInOnClick() {
   window.open('https://www.linkedin.com/in/martin-perez-313985273/');
 }
-
 
 document.addEventListener('DOMContentLoaded', function () {
   const box = document.querySelector('.profile-img');
